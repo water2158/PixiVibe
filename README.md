@@ -6,6 +6,6 @@
 
 | 你的目的 | 下载内容 |
 |---|---|
-| PixiVibe2 | [下载补丁 ZIP](https://github.com/Smidle/Jeff-FX-forge/releases/download/v1.0.1/Jeff-FX-1.0.1-plugin.zip) |
+| PixiVibe2 | [下载补丁 ZIP](https://github.com/water2158/PixiVibe/releases/download/v1.0.1/Jeff-FX-1.0.1-plugin.zip) |
 
-**使用方法：**解压至游戏根目录，替换掉同名文件。
+**使用方法：解压至游戏根目录，替换掉同名文件。**
